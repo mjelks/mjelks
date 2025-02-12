@@ -22,7 +22,7 @@ Web Developer
 
 *   🌍  I'm based in the Bay Area, California
 *   ✉️  You can contact me at [info@michaeljelks.com](mailto:info@michaeljelks.com)
-*   🧠  I'm learning React + NextJS 
+*   🧠  I'm learning next level Rails 8 application setup
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills 
